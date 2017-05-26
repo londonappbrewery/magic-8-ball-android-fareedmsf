@@ -22,10 +22,11 @@ public class MainActivity extends AppCompatActivity {
         final ImageView letterimg = (ImageView)findViewById(R.id.f);
 
         final int [] letters = {
-            R.drawable.ff,
-            R.drawable.rr,
-            R.drawable.ee,
-            R.drawable.dd
+            R.drawable.ball1,
+            R.drawable.ball2,
+            R.drawable.ball3,
+            R.drawable.ball4,
+            R.drawable.ball5
 
         };
 
